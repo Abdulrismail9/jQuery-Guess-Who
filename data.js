@@ -53,7 +53,7 @@ var people = [
   },
   {
     name: 'Rebecca',
-    githubUsername: 'fieldofficeco'
+    githubUsername: 'rebeccasilus'
   },
   {
     name: 'Ryan',
